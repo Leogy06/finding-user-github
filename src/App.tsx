@@ -1,11 +1,11 @@
 import Hello from "./components/Message";
-import Calcualtor from "./components/Calcualtor";
+import Calculator from "./components/Calculator";
 
 const App = () => {
   return (
     <div>
       <Hello></Hello>
-      <Calcualtor></Calcualtor>
+      <Calculator />
     </div>
   );
 };
